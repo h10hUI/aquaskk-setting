@@ -20,7 +20,7 @@
 	</dict>
 	<dict>
 		<key>active</key>
-		<false/>
+		<true/>
 		<key>location</key>
 		<string>SKK-JISYO.jinmei</string>
 		<key>type</key>
@@ -28,7 +28,7 @@
 	</dict>
 	<dict>
 		<key>active</key>
-		<false/>
+		<true/>
 		<key>location</key>
 		<string>SKK-JISYO.fullname</string>
 		<key>type</key>
@@ -36,7 +36,7 @@
 	</dict>
 	<dict>
 		<key>active</key>
-		<false/>
+		<true/>
 		<key>location</key>
 		<string>SKK-JISYO.geo</string>
 		<key>type</key>
@@ -44,7 +44,7 @@
 	</dict>
 	<dict>
 		<key>active</key>
-		<false/>
+		<true/>
 		<key>location</key>
 		<string>SKK-JISYO.propernoun</string>
 		<key>type</key>
@@ -52,7 +52,7 @@
 	</dict>
 	<dict>
 		<key>active</key>
-		<false/>
+		<true/>
 		<key>location</key>
 		<string>SKK-JISYO.station</string>
 		<key>type</key>
@@ -60,7 +60,7 @@
 	</dict>
 	<dict>
 		<key>active</key>
-		<false/>
+		<true/>
 		<key>location</key>
 		<string>SKK-JISYO.law</string>
 		<key>type</key>
@@ -100,7 +100,7 @@
 	</dict>
 	<dict>
 		<key>active</key>
-		<false/>
+		<true/>
 		<key>location</key>
 		<string>zipcode/SKK-JISYO.zipcode</string>
 		<key>type</key>
@@ -108,7 +108,7 @@
 	</dict>
 	<dict>
 		<key>active</key>
-		<false/>
+		<true/>
 		<key>location</key>
 		<string>zipcode/SKK-JISYO.office.zipcode</string>
 		<key>type</key>
@@ -116,7 +116,7 @@
 	</dict>
 	<dict>
 		<key>active</key>
-		<false/>
+		<true/>
 		<key>location</key>
 		<string>SKK-JISYO.JIS2</string>
 		<key>type</key>
@@ -124,7 +124,7 @@
 	</dict>
 	<dict>
 		<key>active</key>
-		<false/>
+		<true/>
 		<key>location</key>
 		<string>SKK-JISYO.JIS3_4</string>
 		<key>type</key>
@@ -132,7 +132,7 @@
 	</dict>
 	<dict>
 		<key>active</key>
-		<false/>
+		<true/>
 		<key>location</key>
 		<string>SKK-JISYO.JIS2004</string>
 		<key>type</key>
@@ -140,7 +140,7 @@
 	</dict>
 	<dict>
 		<key>active</key>
-		<false/>
+		<true/>
 		<key>location</key>
 		<string>SKK-JISYO.itaiji</string>
 		<key>type</key>
@@ -148,7 +148,7 @@
 	</dict>
 	<dict>
 		<key>active</key>
-		<false/>
+		<true/>
 		<key>location</key>
 		<string>SKK-JISYO.itaiji.JIS3_4</string>
 		<key>type</key>
@@ -156,7 +156,7 @@
 	</dict>
 	<dict>
 		<key>active</key>
-		<false/>
+		<true/>
 		<key>location</key>
 		<string>SKK-JISYO.mazegaki</string>
 		<key>type</key>
