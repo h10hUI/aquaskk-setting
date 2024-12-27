@@ -68,7 +68,7 @@
 	</dict>
 	<dict>
 		<key>active</key>
-		<false/>
+		<true/>
 		<key>location</key>
 		<string>SKK-JISYO.okinawa</string>
 		<key>type</key>
@@ -76,7 +76,7 @@
 	</dict>
 	<dict>
 		<key>active</key>
-		<false/>
+		<true/>
 		<key>location</key>
 		<string>SKK-JISYO.china_taiwan</string>
 		<key>type</key>
@@ -84,7 +84,7 @@
 	</dict>
 	<dict>
 		<key>active</key>
-		<false/>
+		<true/>
 		<key>location</key>
 		<string>SKK-JISYO.assoc</string>
 		<key>type</key>
@@ -92,7 +92,7 @@
 	</dict>
 	<dict>
 		<key>active</key>
-		<false/>
+		<true/>
 		<key>location</key>
 		<string>SKK-JISYO.edict</string>
 		<key>type</key>
